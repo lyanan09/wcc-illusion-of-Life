@@ -10,6 +10,12 @@ body{
   background: white;
 }
 
+header a {
+  /* color: white; */
+  padding: 10px 16px;
+  display: inline-block;
+}
+
 main{
   width: 600px;
 }
